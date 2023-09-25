@@ -41,7 +41,7 @@ public class Fox {
 	private int foodLevel;
 
 	/**
-	 * Create a fox. A fox can be created as a new born (age zero and not
+	 * Create a fox. A fox can be created as a newborn (age zero and not
 	 * hungry) or with random age.
 	 * 
 	 * @param startWithRandomAge
